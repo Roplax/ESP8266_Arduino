@@ -13,8 +13,8 @@ ESP8266HTTPUpdateServer httpUpdater;
 
 
 #ifndef STASSID
-#define STASSID "rops2"
-#define STAPSK  "tony1234"
+#define STASSID "ropxxx"
+#define STAPSK  "tonyxxx"
 #endif
 
 const char* ssid = STASSID;
