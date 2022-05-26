@@ -1,0 +1,3986 @@
+**Log Entries 
+ 00:00:10: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:10: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:10: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:10: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:10: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:10: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:10: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:10: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:10: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:10: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 00:00:09: Webserver, NTP Started &  IP Addr:192.168.1.144
+03:16:12: Failed to read from DHT sensor!
+03:24:12: Failed to read from DHT sensor!
+03:24:21: Failed to read from DHT sensor!
+14:58:32: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ 13:52:19: Webserver, NTP Started &  IP Addr:192.168.1.144
+13:54:01: Failed to read from DHT sensor!
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144
+**Log Entries 
+ Sun, 21 Mar 2021 22:03:33 GMT: Webserver, NTP Started &  IP Addr:192.168.1.144

@@ -1,0 +1,5 @@
+Time (GMT):      Temp (deg C)    Humidity (%) 
+  Sun, 21 Mar 2021 22:50:56 GMT 18.10   75.10
+Sun, 21 Mar 2021 22:51:06 GMT   18.10   79.40
+Sun, 21 Mar 2021 22:51:16 GMT   18.10   63.90
+Sun, 21 Mar 2021 22:51:26 GMT   18.10   79.50
